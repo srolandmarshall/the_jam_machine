@@ -1,0 +1,2 @@
+class JamController < ApplicationController
+end

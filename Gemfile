@@ -73,3 +73,5 @@ group :test do
 end
 
 gem "ruby-openai", "~> 3.5"
+
+gem "rspec-rails", "~> 6.0"
